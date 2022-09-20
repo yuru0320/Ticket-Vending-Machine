@@ -13,7 +13,9 @@ ModelSim-Altera 10.1d (Quartus II 13.1)
 
 # 說明
 利用有限狀態機的方法模擬出車站的自動售票販賣機
+
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/95215851/191296655-7378a83b-36a3-4661-b6b8-6ce3ae59abe3.png">
+
 *首先要輸入兩個站（起站與終站）// 初始狀態
 
 *接著輸入張數 // 選擇張數的狀態
@@ -33,5 +35,6 @@ ModelSim-Altera 10.1d (Quartus II 13.1)
 *選站時必須選擇“起點站”與“終點站”
 
 *當起站與終站相同時則為”月台票”
+
 <img width="678" alt="image" src="https://user-images.githubusercontent.com/95215851/191297466-ce274983-06c8-4157-ae16-52af6fb4da5e.png">
 
