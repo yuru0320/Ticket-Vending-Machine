@@ -12,7 +12,7 @@ ModelSim-Altera 10.1d (Quartus II 13.1)
 2.對stimulus.v進行模擬
 
 # 說明
-利用有限狀態機的方法模擬出車站的自動售票販賣機
+利用有限狀態機的方法模擬出車票販賣機，分為四個狀態: 選擇車站、選擇張數、付款、找零及給票。
 
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/95215851/191296655-7378a83b-36a3-4661-b6b8-6ce3ae59abe3.png">
 
