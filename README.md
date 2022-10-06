@@ -70,6 +70,6 @@ Ticket num: 車票數量
 
 # 波形圖
 
-![messageImage_1665058393546](https://user-images.githubusercontent.com/95215851/194368802-dda48fa3-deef-476f-85ce-7c3db59ab767.jpg)
+![messageImage_1665058268658](https://user-images.githubusercontent.com/95215851/194368887-0405f6dd-d83d-4c1c-a3da-90f13d7cfcc3.jpg)
 
 
