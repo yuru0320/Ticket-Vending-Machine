@@ -38,3 +38,28 @@ ModelSim-Altera 10.1d (Quartus II 13.1)
 
 <img width="678" alt="image" src="https://user-images.githubusercontent.com/95215851/191297466-ce274983-06c8-4157-ae16-52af6fb4da5e.png">
 
+# Input 說明
+origin: 起始站
+
+destination: 目的站
+
+howManyticket: 車票張數
+
+money: 投入金額
+
+reset: 取消
+
+
+![messageImage_1665057803737](https://user-images.githubusercontent.com/95215851/194366806-1dac43fb-a6fc-4751-9ea2-a7cbc235f577.jpg)
+
+# Output 說明
+money: 投入金額
+total dollars: 已投入金額
+Amount payable: 還需付多少錢
+exchange: 取消後退還多少錢
+Change: 結帳完成後找零金額
+Ticket num: 車票數量
+
+![messageImage_1665057752116](https://user-images.githubusercontent.com/95215851/194366887-e8b845cb-b7d5-4aa8-8425-cb1b5b69dac4.jpg)
+
+
